@@ -3,7 +3,12 @@
 This repository is for showing how Git and GitHub work
 
 ##Introduction
+
 This is the intro.
+
+##Deployment
+
+How to deploy.
 
 ## Purpose
 
