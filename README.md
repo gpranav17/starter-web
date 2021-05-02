@@ -8,7 +8,7 @@ This is the intro.
 
 ## Deployment
 
-How to deploy.
+How to deploy on the environment.
 
 ## Purpose
 
