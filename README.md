@@ -2,11 +2,11 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 This is the intro.
 
-##Deployment
+## Deployment
 
 How to deploy.
 
