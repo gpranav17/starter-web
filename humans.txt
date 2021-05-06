@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Pranav
+    Pranav Gupta
 
 # TECHNOLOGY COLOPHON
 
