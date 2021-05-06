@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub works and examples.
 
 ## Introduction
 
-This is the introduction .
+This is the introduction  to BaNCS.
 
 ## Deployment
 
