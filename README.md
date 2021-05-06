@@ -8,7 +8,7 @@ This is the introduction  to BaNCS TCS.
 
 ## Deployment
 
-How to deploy on the environment.
+How to deploy on the environment as CA Bancs.
 
 ## Purpose
 
