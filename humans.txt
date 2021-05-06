@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> EMC <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    Pranav
 
 # TECHNOLOGY COLOPHON
 
