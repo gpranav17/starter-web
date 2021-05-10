@@ -16,4 +16,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-2021 BaNCS Copyright
+2021 BaNCS Copyright All Rights reserved.
